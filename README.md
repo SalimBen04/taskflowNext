@@ -442,3 +442,5 @@ Next.js full-stack, pour ces raisons :
 •	Déploiement Vercel en quelques clics, CDN mondial inclus.
 React SPA + Express reste pertinent pour : applications très interactives (dashboard temps réel), équipes front/back séparées, ou quand on a besoin d'une API publique consommée par plusieurs clients (web, mobile, tiers).
 
+#   t a s k f l o w N e x t  
+ 
